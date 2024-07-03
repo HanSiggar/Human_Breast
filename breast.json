@@ -1,0 +1,53 @@
+{
+    "name" : "Human Breast",
+    "children" : [
+        { 
+            "name" : "AV",
+            "children" : [
+                { "name" : "BL"},
+                { "name" : "AP"}
+            ]
+
+        },
+        {
+            "name" : "BA",
+            "children" : [
+                { "name" : "BAa"},
+                { "name" : "BAb"}
+            ]
+        },
+        {
+            "name" : "Fibroblast",
+            "children" : [
+                { "name" : "F1"},
+                { "name" : "F2"},
+                { "name" : "F3"}
+            ]
+        },
+        {
+            "name" : "HS",
+            "children" : [
+                { "name" : "HSa"},
+                { "name" : "HSb"}
+            ]
+        },
+        {
+            "name" : "Immune",
+            "children" : [
+                { "name" : "I1_Myeloid"},
+                { "name" : "I2_NK"},
+                { "name" : "I3_Tcell"},
+                { "name" : "I4_Bcell"},
+                { "name" : "I5_PlasmaCell"}
+            ]
+        },
+        {
+            "name" : "VasLymph",
+            "children" : [
+                { "name" : "VL1_LE"},
+                { "name" : "VL2_VE"},
+                { "name" : "VL3_PE"}
+            ]
+        }
+    ]
+}
